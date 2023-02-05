@@ -1,6 +1,23 @@
-### Hi there 👋
+# Hi there 👋, I'm SeulKi Lee
+### I'm a UX/UI Designer & Publisher
 
-<a href="https://kingb.notion.site/4625d3e8798d425084e324b32593d7be" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=로고&logoColor=로고색상"/></a>
+- 🌱 I’m currently learning on : SCSS and JavaScript
+- 📫 How to reach me: Gmail
+- ⚡ Fun fact: I'm Youtuber
+
+
+
+Connect with me
+LinkedIn Gmail
+
+
+💻 Stacks
+JavaScript CSS3 HTML5 SCSS
+
+
+📊 GitHub Stats
+ 
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulkiu&show_icons=true&theme=radical)
 
@@ -9,12 +26,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
