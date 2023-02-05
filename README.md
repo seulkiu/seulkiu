@@ -2,6 +2,8 @@
 
 <a href="https://kingb.notion.site/4625d3e8798d425084e324b32593d7be" target="_blank"><img src="https://img.shields.io/badge/Notion-FFFFFF?style=for-the-badge&logo=로고&logoColor=로고색상"/></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seulkiu&show_icons=true&theme=radical)
+
 <!--
 **seulkiu/seulkiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
