@@ -2,7 +2,7 @@
 ### I'm a UX/UI Designer & Publisher
 
 - 🌱 I’m currently learning on : SVG and JavaScript
-- 📫 How to reach me: Gmail
+- 📫 How to reach me: alxsm90@naver.com
 - ⚡ Fun fact: I'm Youtuber
 
 
