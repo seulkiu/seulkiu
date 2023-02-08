@@ -1,7 +1,7 @@
 # Hi there 👋, I'm SeulKi Lee
 ### I'm a UX/UI Designer & Publisher
 
-- 🌱 I’m currently learning on : SCSS and JavaScript
+- 🌱 I’m currently learning on : SVG and JavaScript
 - 📫 How to reach me: Gmail
 - ⚡ Fun fact: I'm Youtuber
 
